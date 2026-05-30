@@ -6,7 +6,7 @@ import {
 } from "framer-motion";
 
 import { useEffect, useState } from "react";
-import LogoImg from "../assets/kevalon2.png";
+import LogoImg from "../assets/Kevalon2.png";
 
 export default function Loader() {
   const [progress, setProgress] = useState(0);
